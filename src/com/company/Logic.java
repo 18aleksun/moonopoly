@@ -61,6 +61,7 @@ public class Logic {
                 System.out.println();
                 break;
             case 3:
+                System.out.println("Ihar");
                 // new change line 2
                 // new change line 3
                 // new change line 3
