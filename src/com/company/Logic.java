@@ -47,7 +47,7 @@ public class Logic {
         System.out.println("You get field " + newCities.getDataBaseCity()[countOfcub].getName());
     }
 
-    private void solutionPlayer(){
+    private void solutionPlayer() {
         System.out.println("...");
         Scanner scanner = new Scanner(System.in);
         int chooseAction = scanner.nextInt();
@@ -61,13 +61,9 @@ public class Logic {
                 System.out.println();
                 break;
             case 3:
-
-
-
+// new change
+        }
     }
-
-
-
 }
 
 
